@@ -2,7 +2,7 @@ import os
 
 os.environ[
     'DATABASE_URL'
-] = 'postgres://cozboapq:bSMg9JgbgOmWP7zcw-0dYTaXRxx1EFy1@trumpet.db.elephantsql.com/cozboapq'
+] = 'postgres://oqrqukuz:k1xwic1ubAoICRuqFG-XUq94QdInTO-5@tai.db.elephantsql.com/oqrqukuz'
 os.environ[
     'SECRET_KEY'
 ] = '53cr3tk3yc3ds'
