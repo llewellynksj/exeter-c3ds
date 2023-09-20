@@ -9,4 +9,4 @@ os.environ[
 os.environ[
     'CLOUDINARY_URL'
 ] = 'cloudinary://545166596317496:NJ3i-qR_QOdTXgsbUfnDvcBPLAY@ddqyimddv'
-os.environ['DEBUG'] = '1'
+# os.environ['DEBUG'] = '1'
